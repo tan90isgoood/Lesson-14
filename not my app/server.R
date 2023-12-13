@@ -1,3 +1,4 @@
+library(shiny)
 function(input, output) {
   
   # display 10 rows initially
